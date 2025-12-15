@@ -25,3 +25,19 @@ I am currently a first year MoL (Master of Logic) student at [I LLC](https://www
 **Bachelor's in Computer Engineering**  
 *School of Computer Science and Information Engineering, Hefei University of Technology*  
 <span style="float:right;">Sep. 2018 – July. 2022</span>
+
+## Presentations
+
+A Compositional Analysis of Mandarin Chinese Experiential Marker -guò\\
+**Nan Wang**, Thomas Stephen, Fausto Carcassi \\
+*The Fourth International Conference on Formal Approaches to Meaning in Chinese (ICFAMC-4)* \\
+
+## Publications
+
+### Preprint
+
+Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression \\
+Jingyu Peng, Maolin Wang, **Nan Wang**, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao \\
+[[PDF]](https://arxiv.org/pdf/2505.13527)
+
+
