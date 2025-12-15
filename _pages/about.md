@@ -30,7 +30,7 @@ I am currently a first year MoL (Master of Logic) student at [I LLC](https://www
 
 A Compositional Analysis of Mandarin Chinese Experiential Marker -guò\\
 **Nan Wang**, Thomas Stephen, Fausto Carcassi \\
-*The Fourth International Conference on Formal Approaches to Meaning in Chinese (ICFAMC-4)* \\
+*The Fourth International Conference on Formal Approaches to Meaning in Chinese (ICFAMC-4)*
 
 ## Publications
 
@@ -40,4 +40,7 @@ Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Lo
 Jingyu Peng, Maolin Wang, **Nan Wang**, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao \\
 [[PDF]](https://arxiv.org/pdf/2505.13527)
 
+## Miscellaneous
+
+I love archery and watching snooker games. I'm also a coffee lover and brew my coffee everyday!
 
